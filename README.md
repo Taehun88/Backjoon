@@ -15,3 +15,21 @@
 3. 최종 결과
 
 	문제 해결(2023-09-12)
+
+
+### 2023-09-12 Backjoon 5186 파티를 열어라
+1. 문제 내용
+	
+	Drunk people와 Not Drunk people를 나눠 차량에 최대한 많이 태우는 문제
+	Not Drunk people를 먼저 넣고 이후 Drunk people에 대한 처리한 후
+	남은 인원수를 계산
+
+2. 틀린점
+	
+	1. Drunk people와 Not Drunk people를 구분하고 각 차량에 배치까지 성공
+	But, iter 과정에서 생기는 문제를 체크하지 못함
+
+3. 최종결과
+	
+	문제 미해결 (2023-09-12)
+
